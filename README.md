@@ -1,7 +1,7 @@
 ### Hi there 👋
-🔭 I’m currently working on Nexus, 3D web experiences, canvas experiments
+🔭 I’m currently working on Nexus, 3D web experiences, and canvas experiments
 
-https://mh-shader-experiments.glitch.me/
+Canvas Experiments(https://mh-shader-experiments.glitch.me/)
 <!--
 **mykongee/mykongee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
